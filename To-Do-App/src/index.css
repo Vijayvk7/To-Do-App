@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(172, 147, 114);
+}
+
+.header {
+    font-weight: 900;
+    text-align: center;
+    font-size: larger;
+    color: aquamarine;
+    background-color: black;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-box {
+    width: 500px;
+    height: 40px;
+    background-color: rgb(236, 232, 226);
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: large;
+    font-weight: 700;
+    font-family: cursive;
+}
+
+.Add-Button {
+    width: 90px;
+    height: 44px;
+    background-color: rgb(37, 185, 23);
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: medium;
+    font-weight: 700;
+}
+
+.body-container {
+    font-size: large;
+    font-weight: 800;
+    font-family: Tahoma, sans-serif;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+}
+
+.Delete-Button {
+    background-color: rgb(167, 24, 24);
+    height: 40px;
+    width: 80px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
